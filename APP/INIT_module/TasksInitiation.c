@@ -2,7 +2,7 @@
  * TasksInitiation.c
  *
  *  Created on: Oct 2, 2023
- *      Author: Kareem Hani
+ *      Author: Heba Adel
  */
 /* This file is made for the Initialization of the needed modules */
 

@@ -1,5 +1,5 @@
 /*
- * Author:      Ehab Roshdy                                                                      
+ * Author:      Heba Adel                                                                      
  * Version:     0.1                                                                       
  * Date:        10/9/2023                                                                             
  * Description: PWM driver interface file      

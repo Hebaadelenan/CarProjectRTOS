@@ -2,7 +2,7 @@
 *
 * [FILE NAME]: <Systick.h>
 *
-* [AUTHOR]: Teleb, Aya, Ehab, Jemy
+* [AUTHOR]: Teleb, Aya, Ehab, Heba 
 *
 * [DATE CREATED]: <09/09/2023>
 *

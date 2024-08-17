@@ -2,7 +2,7 @@
  * UltraSonic_Module.c
  *
  *  Created on: Oct 1, 2023
- *      Author: ERoshdy
+ *      Author: Heba Adel
  */
 #include "APP/Ultrasonic_Module/Ultrasonic_Module.h"
 

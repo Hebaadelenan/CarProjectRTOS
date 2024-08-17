@@ -2,7 +2,7 @@
  * ldr_module.h
  *
  *  Created on: Oct 1, 2023
- *      Author: eme
+ *      Author: Heba Adel
  */
 
 #ifndef APP_LDR_MODULE_H_

@@ -2,7 +2,7 @@
  * ldr_module.c
  *
  *  Created on: Oct 1, 2023
- *      Author: eme
+ *      Author: Heba Adel
  */
 
 #include <APP/APP_Config.h>
